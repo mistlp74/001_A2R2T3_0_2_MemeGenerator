@@ -77,4 +77,4 @@
 
 ## Author
 
-Developed by [Milis Carter](https://github.com/mistlp7474)
+Developed by [mistlp74](https://github.com/mistlp74)
